@@ -218,7 +218,7 @@ main {
     background-color: #E6E6E6;
     /* width: 740px; */
     width: 50%;
-    height: 130px;
+    height: auto;
     padding: 60px;
 
 }
