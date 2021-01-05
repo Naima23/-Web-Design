@@ -223,11 +223,12 @@ main {
 }
 
 .style2 h3 {
-    line-height: 60px;
+    /* line-height: 60px; */
 }
 
 .style2 p {
-    padding-bottom: 20px;
+    /* padding-bottom: 20px; */
+    margin-top: 19px;
 }
 
 /* form */
