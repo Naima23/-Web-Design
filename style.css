@@ -136,7 +136,8 @@ main {
 .mainabout {
     display: flex;
     flex-wrap: wrap;
-
+    width: 90%;
+   
 }
 
 .textmain1 {
@@ -149,6 +150,7 @@ main {
 
 .textmain1 p {
     line-height: 23px;
+    
 }
 
 .textmain1 h3 {
@@ -192,7 +194,7 @@ main {
     text-align: center;
     color: white;
     margin-top: 85px;
-  
+
 }
 
 .fotter3 p {
@@ -203,10 +205,13 @@ main {
 /* services */
 
 .mainServ {
+    /* 2 */
     margin-top: 30px;
     display: flex;
     flex-wrap: wrap;
     margin-right: 50px;
+   
+   
 }
 
 .titel4 {
@@ -234,8 +239,6 @@ main {
 
 /* form */
 .formserv {
-    /* margin-right: 180px; */
-    /* margin-right: 53px; */
     margin-top: 25px;
     background-color: #35424A;
     width: 250px;
